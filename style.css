@@ -358,6 +358,10 @@ p.card-text {
 .click {
   margin-top: 0;
 }
+       
+.dropdown {
+  display: none;
+}
 
 /*Hire*/
 
